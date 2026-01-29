@@ -1,0 +1,5 @@
+{
+  "name": "Consultation v2",
+  "description": "A decentralized governance application for the Radix ecosystem allowing Temperature Checks and Requests for Proposals.",
+  "requestFramePermissions": []
+}
