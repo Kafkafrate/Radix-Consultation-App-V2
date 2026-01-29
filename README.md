@@ -1,6 +1,13 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1270" height="940" alt="Screenshot 2026-01-29 at 13 47 26" src="https://github.com/user-attachments/assets/21a4ef3a-5689-4355-abc8-deb03abd3e80" />
+
 </div>
+
+This is the app I've built so far with Google Studio based on the RadixTalk post made by Stelea for the Consultation App v2. 
+It's work in progress but you can get an idea of where it's going and probably is more tangible than reading that whole block of text. 
+
+More updates Soon. 
+
 
 # Run and deploy your AI Studio app
 
